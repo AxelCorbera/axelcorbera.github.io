@@ -9807,7 +9807,7 @@ return A.v(A.an4(A.b3n("AIzaSyAobDe8ePNsA78y1gqi8icmnnEfw3ea6b8","1:310306951741
 case 2:s=3
 return A.v(A.Ol(),$async$OB)
 case 3:s=4
-return A.v($.aek().GP(0,".env"),$async$OB)
+return A.v($.aek().GP(0,"./dotenv"),$async$OB)
 case 4:if($.aB==null)A.aZt()
 q=$.aB
 q.toString
